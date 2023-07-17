@@ -1,2 +1,6 @@
 # gas_demand_forecasting
-time series forecasting
+This project aimed to forecast natural gas peak demand of Mseken city (Sousse, Tunisia) in long-term, mid-term and short-term. For that different variables were taken into account: gas flow, number of customers, holidays, temperature,...
+
+A part of the work done was published in this article: https://ieeexplore.ieee.org/document/9765941
+
+Several data modeling skills were acquired thanks to this project: statistics, probability, machine learning, data visualization, data cleaning,... 
